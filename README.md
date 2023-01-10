@@ -1,3 +1,8 @@
+
+<a href="https://colab.research.google.com/github/skiand/Link-Prediction-in-Ecological-Networks/blob/master/Main_Document.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
+</a>
+
 # Analysis and modelling of bridge conditions in Texas
 
 This document examines data provided by National Bridge Inspection maintained by the Federal Highways Agency (FHWA), part of the US Department of Transportation. It consists of a table that contains various metrics concerning the condition of all existing bridges in the state of Texas.
