@@ -1,5 +1,5 @@
-
-<a href="https://github.com/skiand/Analysis-and-modelling-of-bridge-conditions-in-Texas/blob/main/Analysis_and_modelling_of_bridge_conditions_in_Texas.ipynb">
+<a href="https://colab.research.google.com/github/skiand/Analysis-and-modelling-of-bridge-conditions-in-Texas
+/blob/master/Analysis_and_modelling_of_bridge_conditions_in_Texas.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
 </a>
 
